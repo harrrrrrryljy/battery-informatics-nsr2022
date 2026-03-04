@@ -12,7 +12,7 @@ The core of this project is the construction of **Local Density Models (LDMs)** 
 
 ## 📄 Related Publication
 *S. N. Li, ..., **J. Y. Li**, et al. "Title of your NSR Paper," **National Science Review**, 2022.*
-academic.oup.com/nsr/article/9/6/nwac028/6537431
+[Link to Paper](academic.oup.com/nsr/article/9/6/nwac028/6537431)
 
 ## 💻 Tech Stack
 - **Language:** Python 3.8+
