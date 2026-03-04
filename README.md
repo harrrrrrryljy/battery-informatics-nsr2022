@@ -11,7 +11,7 @@ The core of this project is the construction of **Local Density Models (LDMs)** 
 - **Data Integrity:** Implemented robust filtering algorithms to eliminate non-physical artifacts from [DFT](https://en.wikipedia.org) calculation noise.
 
 ## 📄 Related Publication
-*S. N. Li, ..., **J. Y. Li**, et al. "Graph-based discovery and analysis of atomic-scale one-dimensional materials," **National Science Review**, 2022.*
+*S. N. Li, ..., **J. Y. Li**, et al. Graph-based discovery and analysis of atomic-scale one-dimensional materials, **National Science Review**, 2022.*
 [Link to Paper](https://academic.oup.com/nsr/article/9/6/nwac028/6537431)
 
 ## 💻 Tech Stack
