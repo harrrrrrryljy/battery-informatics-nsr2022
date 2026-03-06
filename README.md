@@ -15,5 +15,5 @@ The core of this project is the construction of **Local Density Models (LDMs)** 
 [Link to Paper](https://academic.oup.com/nsr/article/9/6/nwac028/6537431)
 
 ## 💻 Tech Stack
-- **Language:** Python 3.8+
+- **Language:** Python 3
 - **Libraries:** [Pandas](https://pandas.pydata.org), [NumPy](https://numpy.org), [Matplotlib](https://matplotlib.org), [SciPy](https://scipy.org)
