@@ -5,7 +5,7 @@ This repository contains the data processing pipeline and feature engineering pr
 ## 📌 Overview
 The core of this project is the construction of **Local Density Models (LDMs)** to investigate battery interphase evolution. We transitioned from raw, unstructured atomistic trajectories to structured physical descriptors suitable for informatics analysis.
 
-## 🛠 Key Contributions (AI4S Focused)
+## 🛠 Key Contributions (AI4Mat Focused)
 - **Data Curation Pipeline:** Automated extraction and cleaning of large-scale [AIMD](https://en.wikipedia.org) trajectories (VASP output parsing).
 - **Feature Engineering:** Developed physics-constrained descriptors (e.g., local coordination density) to represent disordered chemical environments.
 - **Data Integrity:** Implemented robust filtering algorithms to eliminate non-physical artifacts from [DFT](https://en.wikipedia.org) calculation noise.
